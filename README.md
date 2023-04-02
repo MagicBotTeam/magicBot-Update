@@ -23,7 +23,7 @@ We have implemented a customer satisfaction system to survey our users to help u
 - The maximum number of characters has doubled, going from 4 to 8 players for the Premium version, and from 2 to 4 for the free version.
 
 ## Category: *Administration*
-- Translations have been added to the entire server, which now allows you to set the base language for all your users on your server. Additionally, users will have the option to change the language of their profile according to their preferences.
+- Translations have been added to the entire server, which now allows you to set the base language for all your users on your server. Additionally, users will have the option to change the language of their profile according to their preferences. Use `/set-lang server: True/False language: Fench/English/Spanish`
 
 - Added the Spanish version of Magic Bot. ⚠ This version may contain translation errors, if you find any, please let us know!
 
@@ -55,7 +55,8 @@ Nous avons mis en place un système de satisfaction client afin de sonder nos ut
 - Le nombre de personnage maximum à doublé, passant de 4 à 8 joueurs pour la version Premium, et de 2 à 4 pour la version gratuite.
 
 ## Catégorie : *Administration*
-- Les traductions ont été ajoutées à l'ensemble du serveur, ce qui vous permet désormais de définir la langue de base pour tous vos utilisateurs sur votre serveur. De plus, ces derniers auront la possibilité de modifier la langue de leur profil selon leurs préférences.
+- Les traductions ont été ajoutées à l'ensemble du serveur, ce qui vous permet désormais de définir la langue de base pour tous vos utilisateurs sur votre serveur. De plus, ces derniers auront la possibilité de modifier la langue de leur profil selon leurs préférences. `/set-lang serveur: True language: Français/Anglais/Espagnol`
 
-- Ajout de la version Espagnole de Magic Bot. ⚠ Cette version peut comporter des erreurs de traductions, si vous en trouvez n'hésitez pas à nous les faire remonter !
+- Ajout de la version Espagnole de Magic Bot. ⚠ Cette version peut comporter des erreurs de traductions, si vous en trouvez n'hésitez pas à nous les faire remonter ! 
+`/set-lang serveur: False language: Français/Anglais/Espagnol`
 
